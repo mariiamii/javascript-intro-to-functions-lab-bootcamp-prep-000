@@ -19,6 +19,6 @@ var uppercase = "YES INDEED!";
 var mixedcase = "I love you, too!"
 
 function sayHiToGrandma(hello) {
-  if 
+  if (hello)
 }
 
