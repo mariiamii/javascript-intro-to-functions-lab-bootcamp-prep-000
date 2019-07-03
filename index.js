@@ -19,5 +19,13 @@ function sayHiToGrandma(hello) {
   var uppercase = "YES INDEED!";
   var mixedcase = "I love you, too!"
   
-  if (hello.toLowerCase(hello)===hello)
-
+  if (hello.toLowerCase(hello) === hello) {
+    return lowercase;
+  }
+  else if (hello.toUpperCase(hello) === hello) {
+    return uppercase;
+  }
+  else if ("I love you, Grandma." === hello) {
+    return mixedcase
+  }
+}
