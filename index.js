@@ -14,6 +14,11 @@ function logWhisper(HELLO) {
   console.log(HELLO.toLowerCase())
 }
 
+var lowercase = 'hello!'
+var uppercase = 'HELLO!'
+var mixedcase = "Hi there!"
+
+
 function sayHiToGrandma(hello) {
   return hello.toUpperCase()
 }
