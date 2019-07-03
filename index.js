@@ -18,8 +18,7 @@ var lowercase = "I can't hear you!";
 var uppercase = "YES INDEED!";
 var mixedcase = "I love you, too!"
 
-
 function sayHiToGrandma(hello) {
-  return hello.toUpperCase()
+  if 
 }
 
